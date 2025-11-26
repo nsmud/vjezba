@@ -88,9 +88,8 @@ const linksList = [
   },
   {
     title: 'Stranica',
-    caption: 'priprema ispita',
-    icon: 'favorite',
-    link: 'https://StranicaPage.quasar.dev'
+    icon: 'description',
+    link: '/stranica'
   }
 ]
 
